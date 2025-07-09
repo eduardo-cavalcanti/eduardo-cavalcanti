@@ -8,6 +8,12 @@ Mid-Level IT Analyst with a focus on data and automation, graduated in Computer 
 
 I have a collaborative, proactive profile oriented toward continuous improvement. I enjoy learning, sharing knowledge, and seeking new ways to add value through technology, idea exchange, or joint team collaboration.
 
+<div align='center'>
+
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=eduardo-cavalcanti&show_icons=true&theme=radical)](https://github.com/eduardo-cavalcanti)
+
+<div>
+
 # Contact me 📩
 
 <div align="center">
