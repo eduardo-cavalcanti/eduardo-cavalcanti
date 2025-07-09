@@ -13,29 +13,21 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 ### 📊 Data Analyst
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL Server" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Power Query" width="50" height="50"/>
+
 </div>
 
 
 ### 🖥️ Infrastructure Analyst
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </div>
 
 
 ### 📈 Observability Analyst
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Zabbix_logo.png" alt="Zabbix" width="100" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Splunk_logo.svg" alt="Splunk" width="100" height="30"/>
+ 
 </div>
 
 
