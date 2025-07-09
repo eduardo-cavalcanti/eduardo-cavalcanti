@@ -7,3 +7,12 @@
 Mid-Level IT Analyst with a focus on data and automation, graduated in Computer Science from SPTech. I have been working in the Technology field since 2019, with solid experience in data engineering, creation of executive reports, process automation, and infrastructure monitoring. My career includes roles in observability, monitoring, and sustenance, always focused on delivering solutions that improve visibility and operational efficiency.
 
 I have a collaborative, proactive profile oriented toward continuous improvement. I enjoy learning, sharing knowledge, and seeking new ways to add value through technology, idea exchange, or joint team collaboration.
+
+# Contact me 📩
+
+<div align="center">
+
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/eduardo-cavalcantifs/)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:eduardo.csantos@bandtec.com.br)
+
+</div>
