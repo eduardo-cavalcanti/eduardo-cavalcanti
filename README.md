@@ -10,20 +10,23 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 # 🎯 Focus Areas
 
-- 📊 Data Analyst
+##  📊 Data Analyst
+  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)  
   ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
   ![Power Query](https://img.shields.io/badge/-Power%20Query-00C853?logo=microsoft&logoColor=white)
   
-- 🖥️ Infrastructure Analyst
+## 🖥️ Infrastructure Analyst
+
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
   ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-- 📈 Observability Analyst
+## 📈 Observability Analyst
+
   ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?logo=zabbix&logoColor=white)  
   ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
 
