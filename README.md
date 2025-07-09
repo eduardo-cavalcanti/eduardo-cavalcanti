@@ -10,8 +10,6 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 # 🎯 Focus Areas
 
-## 🎯 Focus Areas
-
 ### 📊 Data Analyst
 
 <div align="center">
