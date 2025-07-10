@@ -8,7 +8,7 @@ Mid-Level IT Analyst with a focus on data and automation, graduated in Computer 
 
 I have a collaborative, proactive profile oriented toward continuous improvement. I enjoy learning, sharing knowledge, and seeking new ways to add value through technology, idea exchange, or joint team collaboration.
 
-![Viego](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2fd27fe4-913a-4c27-8ac8-57f075444ef0/dekh3yx-605cf058-4016-4b7b-bc4c-3d42963d58ee.gif/v1/fill/full/800x450/animation__viego_ss_redraw_by_klanczek_dekh3yx-fullview.gif)
+![Image](https://github.com/user-attachments/assets/db9962bd-bf36-46d0-965e-5133b5c3b312)
 
 ## Tools ⚙️
 
