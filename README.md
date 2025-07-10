@@ -50,6 +50,12 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <div>
 
 <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cavalcanti&layout=compact&theme=radical)
+
+</div>
+
+<div align="center">
   
 ## Contact me 📩
 
@@ -60,7 +66,6 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cavalcanti&layout=compact&theme=radical)
 
 ![Snake animation](https://github.com/eduardo-cavalcanti/eduardo-cavalcanti/blob/output/github-contribution-grid-snake.svg)
 
