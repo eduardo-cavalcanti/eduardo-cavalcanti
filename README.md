@@ -17,7 +17,6 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
   
 ## 📊 Data Analyst
-<div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
@@ -26,7 +25,6 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
 
 ## 🖥️ Infrastructure Analyst
-<div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
