@@ -17,7 +17,6 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
   
 ## 📊 Data Analyst
-
 <div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
@@ -26,9 +25,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="microsoft-power-apps"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
 
-
 ## 🖥️ Infrastructure Analyst
-
 <div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
@@ -50,9 +47,9 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div>
 
-## Contact me 📩
-
 <div align="center">
+  
+## Contact me 📩
 
 [![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/eduardo-cavalcantifs/)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:eduardo.csantos@bandtec.com.br)
