@@ -32,7 +32,12 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <img width="48" height="48" src="https://img.icons8.com/color/48/grafana.png" alt="grafana"/>
 </div>
 
+<div align="center">
+
 # Commits 🚀
+
+</div>
+
 
 <div align='center'>
 
@@ -40,7 +45,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div>
 
-# Contact me 📩
+## Contact me 📩
 
 <div align="center">
 
