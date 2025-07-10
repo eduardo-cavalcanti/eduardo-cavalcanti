@@ -16,8 +16,11 @@ I have a collaborative, proactive profile oriented toward continuous improvement
   <img src="https://github.com/user-attachments/assets/f9ceaabe-043e-4a1d-a777-5f387c779c35" alt="Image" width="120"/>
 </p>
 
-
+<div align="center">
+  
 ## Tools ⚙️
+
+</div>
 
   
 ### **Data Analyst** 📊
