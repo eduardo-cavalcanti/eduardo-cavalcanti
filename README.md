@@ -11,38 +11,46 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <div align='center'>
   
 <div align="center">
-  <h1>Focus Areas 🎯</h1>
+<div align='center'>
+  
+# Focus Areas 🎯
+
+</div>
+
+<div align='center'>
+  
+### 📊 Data Analyst
+
 </div>
 
 <div align="center">
-  <h3>📊 Data Analyst</h3>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/data-configuration.png" alt="data-configuration"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="microsoft-power-apps"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/data-configuration.png" alt="data-configuration"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="power-apps"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="power-automate"/>
-</div>
+<div align='center'>
 
-<div align="center">
-  <h3>🖥️ Infrastructure Analyst</h3>
-</div>
+### 🖥️ Infrastructure Analyst
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure"/>
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" alt="linux"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/grafana.png" alt="grafana"/>
 </div>
 
 <div align="center">
-  <h1>Commits 🚀</h1>
+<img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/grafana.png" alt="grafana"/>
 </div>
 
+<div align="center">
+
+# Commits 🚀 
+
+QUERO ESPAÇAR MAIS ISSO, MT COLADO
 
 </div>
 
