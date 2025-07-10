@@ -8,7 +8,10 @@ Mid-Level IT Analyst with a focus on data and automation, graduated in Computer 
 
 I have a collaborative, proactive profile oriented toward continuous improvement. I enjoy learning, sharing knowledge, and seeking new ways to add value through technology, idea exchange, or joint team collaboration.
 
-![Image](https://github.com/user-attachments/assets/f9ceaabe-043e-4a1d-a777-5f387c779c35)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9ceaabe-043e-4a1d-a777-5f387c779c35" alt="Image" width="120"/>
+</p>
+
 
 ## Tools ⚙️
 
