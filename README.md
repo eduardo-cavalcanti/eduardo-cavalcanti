@@ -12,7 +12,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 # Tools ⚙️
 
   
-## 📊 Data Analyst
+Data Analyst 📊
 
 <div align="center">
   
@@ -25,7 +25,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 </div>
 
-## 🖥️ Infrastructure Analyst
+Infrastructure Analyst 🖥️ 
 
 <div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
