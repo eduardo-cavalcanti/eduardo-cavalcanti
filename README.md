@@ -8,7 +8,7 @@ Mid-Level IT Analyst with a focus on data and automation, graduated in Computer 
 
 I have a collaborative, proactive profile oriented toward continuous improvement. I enjoy learning, sharing knowledge, and seeking new ways to add value through technology, idea exchange, or joint team collaboration.
 
-![Viego](https://media.tenor.com/6zSNuC_yl3UAAAAd/viego.gif)
+<div class="tenor-gif-embed" data-postid="22248295" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/viego-gif-22248295">Viego GIF</a>from <a href="https://tenor.com/search/viego-gifs">Viego GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Tools ⚙️
 
