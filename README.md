@@ -10,18 +10,14 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div align='center'>
   
-<div align="center">
 <div align='center'>
   
 # Tools ⚙️
 
 </div>
-
-<div align='center'>
   
-### 📊 Data Analyst
+## 📊 Data Analyst
 
-</div>
 
 <div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -32,11 +28,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
 </div>
 
-<div align='center'>
-
-### 🖥️ Infrastructure Analyst
-
-</div>
+## 🖥️ Infrastructure Analyst
 
 <div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
