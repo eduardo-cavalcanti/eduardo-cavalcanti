@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=header' width='100%'/>
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Eduardo.;&center=true&vCenter=true&size=45&width=1000&color=4287f5&font='Poppins')
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Eduardo.;&center=true&vCenter=true&size=45&width=1000&color=00f5d4&font='Poppins')
 
 <div align="center">
   
