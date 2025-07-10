@@ -34,6 +34,8 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 
 <div align="center">
+
+
  
 </div>
 
