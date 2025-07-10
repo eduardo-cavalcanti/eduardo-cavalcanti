@@ -8,7 +8,7 @@ Mid-Level IT Analyst with a focus on data and automation, graduated in Computer 
 
 I have a collaborative, proactive profile oriented toward continuous improvement. I enjoy learning, sharing knowledge, and seeking new ways to add value through technology, idea exchange, or joint team collaboration.
 
-# 🎯 Focus Areas
+# Focus Areas 🎯
 
 ### 📊 Data Analyst
 
@@ -32,7 +32,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 <img width="48" height="48" src="https://img.icons8.com/color/48/grafana.png" alt="grafana"/>
 </div>
 
-# Commits
+# Commits 🚀
 
 <div align='center'>
 
