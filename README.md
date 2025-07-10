@@ -33,8 +33,6 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 </div>
 
 
-### 📈 Observability Analyst
-
 <div align="center">
  
 </div>
