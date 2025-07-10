@@ -12,7 +12,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 ## Tools ⚙️
 
   
-### **Data Analyst** 📊
+#### **Data Analyst** 📊
 
 <div align="center">
   
