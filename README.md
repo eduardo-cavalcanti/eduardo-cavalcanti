@@ -55,11 +55,14 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div align='center'>
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=eduardo-cavalcanti&show_icons=true&theme=radical)](https://github.com/eduardo-cavalcanti)
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=eduardo-cavalcanti&show_icons=true&theme=dark)](https://github.com/eduardo-cavalcanti)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cavalcanti&layout=compact&theme=radical)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cavalcanti&layout=compact&theme=dark)
 
 </div>
+
 
   
 ## Contact me 📩
