@@ -10,7 +10,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div align='center'>
   
-## Focus Areas 🎯
+# Focus Areas 🎯
 
 </div>
 
@@ -45,7 +45,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 <div align="center">
 
-## Commits 🚀
+# Commits 🚀
 
 </div>
 
