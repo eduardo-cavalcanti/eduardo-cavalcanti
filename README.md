@@ -51,10 +51,11 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 </div>
 
-<div align="center">
   
 ## Contact me 📩
 
+<div align="center">
+  
 [![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/eduardo-cavalcantifs/)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:eduardo.csantos@bandtec.com.br)
 
