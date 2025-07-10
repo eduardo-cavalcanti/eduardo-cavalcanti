@@ -34,6 +34,8 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 
 # Commits 🚀
 
+<div align="center">
+
 <div align='center'>
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=eduardo-cavalcanti&show_icons=true&theme=tokyonight)](https://github.com/eduardo-cavalcanti)
