@@ -1,4 +1,7 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=header' width='100%'/>
+<p align="center" style="color: #00f5d4;">
+  <img src="https://github.com/user-attachments/assets/f9ceaabe-043e-4a1d-a777-5f387c779c35" alt="Image" width="120"/>
+</p>
+
 
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Eduardo.;&center=true&vCenter=true&size=45&width=1000&color=00f5d4&font='Poppins')
 
