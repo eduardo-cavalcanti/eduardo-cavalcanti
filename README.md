@@ -36,11 +36,7 @@ I have a collaborative, proactive profile oriented toward continuous improvement
 </div>
 
 
-<div align="center">
-
-# Commits 🚀 
-
-</div>
+## Commits 🚀 
 
 
 <div align='center'>
